@@ -13,17 +13,15 @@ Unlock precision in search and RAG with AI-powered query rewriting. Simple to de
 
 ## ✨ **Our Philosophy**
 
-At UltrafilterAI, we believe in the power of open-source to drive innovation. UF-Rewriter is our contribution to the community—a simple, powerful tool for query rewriting that we use in our own content engineering workflows. Our goal is to provide a practical, flexible solution that empowers developers to build better search and RAG systems.
+Great search starts with a great query.
 
-We've designed UF-Rewriter with three modes of operation to cater to a variety of use cases:
+We built UF-Rewriter to solve a problem we faced in our own RAG systems. It’s a simple, powerful tool for query rewriting, and we’re sharing it because we believe it can help others build better search experiences too.
 
-*   **Simple Mode:** For quick, on-the-fly query rewriting. Just type your prompt and go. It's the perfect starting point for exploring the power of LLM-based query rewriting.
+To fit different workflows, we designed three modes:
 
-*   **Template Mode:** For workflows that require consistency and repeatability. Define your prompts once, save them as templates, and reuse them as needed. This mode is ideal for production environments where you need to ensure consistent results.
-
-*   **Advanced Mode:** For power users and industry-specific applications. Define your entire prompt in a Markdown file, giving you complete control over the LLM's behavior. This mode is perfect for complex use cases that require fine-tuned control over the rewriting process.
-
-Whether you're a developer building a RAG system, a data scientist optimizing a search engine, or a product manager building a chatbot, UF-Rewriter gives you the tools you need to get the job done.
+*   **Simple Mode:** For quick, on-the-fly rewriting.
+*   **Template Mode:** For consistent, repeatable results in production.
+*   **Advanced Mode:** For fine-tuned control with detailed Markdown prompts.
 
 ## 🌍 **Live Demo: Try it Now**
 
