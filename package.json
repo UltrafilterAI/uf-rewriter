@@ -1,0 +1,32 @@
+{
+  "name": "uf-rewriter",
+  "version": "1.0.0",
+  "description": "LLM-powered query rewriter microservice using Cloudflare Workers and Google Gemini",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "npx wrangler dev --local",
+    "deploy": "npx wrangler deploy",
+    "deploy:staging": "npx wrangler deploy --env staging",
+    "deploy:production": "npx wrangler deploy --env production",
+    "test": "node test-simple.js",
+    "test:advanced": "node test-advanced.js",
+    "setup": "node setup.js"
+  },
+  "keywords": [
+    "cloudflare-workers",
+    "llm",
+    "query-rewriter",
+    "gemini",
+    "microservice"
+  ],
+  "author": "UltraFilter Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20231218.0",
+    "typescript": "^5.3.3",
+    "wrangler": "^3.114.11"
+  },
+  "dependencies": {
+    "@google/genai": "^1.10.0"
+  }
+}
