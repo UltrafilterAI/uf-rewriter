@@ -11,9 +11,11 @@ Unlock precision in search and RAG with AI-powered query rewriting. Simple to de
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/UltrafilterAI/uf-rewriter)
 
-## ✨ **Why Ultrafilter-Rewriter?**
+## ✨ **Our Philosophy**
 
-UF-Rewriter is built on a simple but powerful philosophy: **control and flexibility**. We believe that the power of LLMs should be accessible to everyone, from individual developers to large enterprises. That's why we've designed three distinct modes of operation, each tailored to a different use case:
+At UltrafilterAI, we believe in the power of open-source to drive innovation. UF-Rewriter is our contribution to the community—a simple, powerful tool for query rewriting that we use in our own content engineering workflows. Our goal is to provide a practical, flexible solution that empowers developers to build better search and RAG systems.
+
+We've designed UF-Rewriter with three modes of operation to cater to a variety of use cases:
 
 *   **Simple Mode:** For quick, on-the-fly query rewriting. Just type your prompt and go. It's the perfect starting point for exploring the power of LLM-based query rewriting.
 
